@@ -5,9 +5,6 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: codewars
-    url: https://www.codewars.com/users/it-moisesmoreno
-
   - title: math
     url: math/topics
 
@@ -57,17 +54,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/it-moisesmoreno
 
-  - title: feed
-    url: feed.xml
+  - title: codewars
+    url: https://www.codewars.com/users/it-moisesmoreno
 
 misc_entries:
   - title: this is an example vertical list
