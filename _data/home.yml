@@ -5,8 +5,8 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: math
-    url: math/topics
+  - title: linkedin
+    url: https://www.linkedin.com/in/it-moisesmoreno/
 
 project_entries:
   - title: Project 1
