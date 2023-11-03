@@ -1,8 +1,8 @@
-title: Moisés Moreno's Portafolio
+title: Moisés Moreno's Personal Website
 author: Moisés Moreno
 url: https://it-moisesmoreno.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Welcome to my little space on the web, where I share content related to game development and software engineering. I'll begin by sharing my portfolio and my blog,  where I plan to release at least one article per week.
 
 permalink: /:slug
 
@@ -27,7 +27,7 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
