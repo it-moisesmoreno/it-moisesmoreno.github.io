@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: The Wheel
-    url: the-wheel
+    url: projects/the-wheel
     desc: Video game / Android
     highlight: NEW
 
