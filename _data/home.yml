@@ -5,9 +5,12 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: java
+    url: /developer_roadmaps/java_developer/java-developer
+
 project_entries:
   - title: The Wheel
-    url: projects/the-wheel
+    url: /projects/the-wheel
     desc: Video game / Android
     highlight: NEW
 
