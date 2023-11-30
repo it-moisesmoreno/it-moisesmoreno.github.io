@@ -26,11 +26,11 @@ The while statement introduces the concept of looping, allowing your program to 
 
 2. **Endless Loops:** Understand how to avoid the common pitfall of creating endless loops and crashing your program.
 
-![Calculating the average of a group with repetition controlled by a counter.](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_2/Fig2_7.png?raw=true)
+![Calculating the average of a group with repetition controlled by a counter.](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_2/Fig2_7.png?raw=true)
 Fig. 2.7: Calculating the average of a group with repetition controlled by a counter.
 
 
-![Calculating the average of a group with repetition controlled by a sentinel.](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_2/Fig2_9.png?raw=true)
+![Calculating the average of a group with repetition controlled by a sentinel.](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_2/Fig2_9.png?raw=true)
 Fig. 2.9: Calculating the average of a group with repetition controlled by a sentinel.
 
 

@@ -13,33 +13,33 @@ But before you continue reading, maybe you're asking if in 2023 is useful to kno
 ## The Fundamentals
 Chapter 1 delves into the fundamental building blocks of any programming language. It starts with a discussion of simple C++ programs, emphasizing the importance of proper syntax and structure. This initial exploration serves as a strong starting point for beginners while providing a quick refresher for experienced programmers.
 
-![A first program in C++](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_1/Fig1_2.png?raw=true)
+![A first program in C++](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_1/Fig1_2.png?raw=true)
 Fig. 1.2: A first program in C++
 
 
 After learning the basic steps to write a first program in C++, Deitel starts to guide the readers to get a step closer to enhance the previous program printing one line with multiples instructions or multiples lines with one instruction.
 
-![Printing one line with multiples instructions](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_1/Fig1_4.png?raw=true)
+![Printing one line with multiples instructions](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_1/Fig1_4.png?raw=true)
 Fig. 1.4: Printing one line with multiples instructions
 
-![Printing multiples lines with one instruction](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_1/Fig1_5.png?raw=true)
+![Printing multiples lines with one instruction](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_1/Fig1_5.png?raw=true)
 Fig. 1.5: Printing multiples lines with one instruction
 
 The chapter 1 continues guide the reader through basic but useful programs, gradually demonstrating how powerful C++ can be. For example, the book teach and explain how to write a simple program that accomplish the sum of two integers.
 
-![Calculate the sum of two numbers](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_1/Fig1_6.png?raw=true)
+![Calculate the sum of two numbers](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main//Capitulo_1/Fig1_6.png?raw=true)
 Fig. 1.6: Calculate the sum of two numbers
 
 ## Control Structures
 Control structures are essential for guiding the flow of a program. The chapter introduces decision control and looping, showing how they can be used to create complex, efficient, and dynamic applications. It highlights the elegance of C++ in handling these structures.
 
-![Control structures, relational operators and equality operators](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_1/Fig1_14.png?raw=true)
+![Control structures, relational operators and equality operators](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_1/Fig1_14.png?raw=true)
 Fig. 1.14: Control structures, relational operators and equality operators
 
 
 Last but not least, Chapter 1 of "C++ How to Program" introduces the concept of namespaces in C++. In programming, a namespace is a feature that allows you to organize and manage the names of variables, functions, and classes in your code to avoid naming conflicts and improve code modularity.
 
-![Using namespace](https://github.com/it-moisesmoreno/cpp/blob/main/CppComoProgramar/Capitulo_1/Fig1_16.png?raw=true)
+![Using namespace](https://github.com/it-moisesmoreno/CppComoProgramar/blob/main/Capitulo_1/Fig1_16.png?raw=true)
 Fig. 1.16: Using namespace
 
 ## Conclusion
