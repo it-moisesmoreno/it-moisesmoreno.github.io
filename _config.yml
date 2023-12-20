@@ -2,7 +2,7 @@ title: Moisés Moreno's Personal Website
 author: Moisés Moreno
 url: https://it-moisesmoreno.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to my little space on the web, where I share content related to game development and software engineering. I'll begin by sharing my portfolio and my blog,  where I plan to release at least one article per week.
+  Welcome to my little space on the web, where I share content related to software engineering and game development. I'll begin by sharing my portfolio and my blog.
 
 permalink: /:slug
 

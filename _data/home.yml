@@ -9,10 +9,15 @@ navbar_entries:
     url: /developer_roadmaps/java_developer/java-developer
 
 project_entries:
+  - title: Open Weather
+    url: /projects/api-openweather
+    desc: A Weather API
+    highlight: API
+  
   - title: The Wheel
     url: /projects/the-wheel
     desc: Video game / Android
-    highlight: NEW
+    highlight: GAME
 
 old_project_entries:
   - title: Soopr
@@ -38,6 +43,9 @@ footer_entries:
 
   - title: github
     url: https://github.com/it-moisesmoreno
+
+  - title: codewars
+    url: https://www.codewars.com/users/it-moisesmoreno/
   
 
 misc_entries:
