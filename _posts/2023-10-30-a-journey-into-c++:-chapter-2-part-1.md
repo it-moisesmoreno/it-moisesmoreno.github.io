@@ -3,15 +3,20 @@ layout: post
 author: Moisés Moreno
 tags: [CPlusPlus, C++, Programming, Software-Development]
 ---
+# Introduction
+
 Welcome back, intrepid coders, to the second installment of "A Journey into C++"! Today, we'll be delving into the intricacies of control structures, focusing on the versatile "if" and "while" statements that shape the flow of our C++ programs.
 
 ## The if Structure
-The "if" statement is the bedrock of decision-making in C++ [^1]. It allows us to create branching paths in our code, executing specific blocks only if certain conditions are met. 
+
+The "if" statement is the bedrock of decision-making in C++ [^1]. It allows us to create branching paths in our code, executing specific blocks only if certain conditions are met.
 
 ## The if/else Structure
-Now, let's expand our horizons with the "if/else" structure. This allows us to handle both true and false conditions, providing alternative paths for our program. 
+
+Now, let's expand our horizons with the "if/else" structure. This allows us to handle both true and false conditions, providing alternative paths for our program.
 
 ## The Versatile while Statement
+
 Moving beyond decision-making, the "while" statement introduces us to the realm of iteration. It allows us to repeatedly execute a block of code as long as a specified condition holds true. Let's create a simple program that counts down from 5 to 1:
 
 ```java
@@ -32,12 +37,14 @@ int main() {
     return 0;
 }
 ```
+
 ![Fig. 2: Counts down.](https://github.com/it-moisesmoreno/blog/blob/main/A%20Journey%20Into%20CPP/Chapter%202/Figure_2.png?raw=true)
 Fig. 2: Counts down.
 
 In this example, the "while" statement ensures that the block of code inside it is executed as long as the condition (count > 0) remains true.
 
 ## Conclusion
+
 As we've seen in this exploration of Chapter 2, control structures are at the heart of C++ programming. They allow you to add logic, decision-making, and repetition to your programs, empowering you to create more versatile and functional software.
 
 ---
