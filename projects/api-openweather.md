@@ -3,16 +3,19 @@ layout: post
 tags: [API, Postman]
 ---
 
+# Open Weather API
+
 In this is API request I've got useful information about the weather. I've used the site [OpenWeather][openweather-link] to get the current weather data of the San Salvador/El Salvador city. This data include a lot of information, for example:
 
 | The name of the city | San Salvador |
 | The tempeture | 23.96º (Celsius) |
 | Weather | Clouds |
 
-This is how the request looks like from the API platform:
+This is what the request looks like from the API platform:
 ![API platform](/images/projects//openweather.png)
 
 And this is the complete response of the API:
+
 ```json
 {
     "coord": {
@@ -62,7 +65,6 @@ And this is the complete response of the API:
 }
 ````
 
-
-**Tech stack:** API, Postman 
+**Tech stack:** API, Postman
 
 [openweather-link]: https://openweathermap.org/
