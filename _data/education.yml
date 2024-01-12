@@ -1,4 +1,33 @@
 bse_course_entries:
+# First semester
   - title: Algebra Lineal
     url: false
     desc: ALL511
+  - title: Expresión Oral y Escrita
+    url: false
+    desc: EOE211
+  - title: Humanística I
+    url: false
+    desc: HUM231
+  - title: Matemática I
+    url: false
+    desc: MAT511
+  - title: Química General
+    url: false
+    desc: QUG511
+  # Second semester
+  - title: Física I
+    url: false
+    desc: FIS521
+  - title: Humanística II
+    url: false
+    desc: HUM232
+  - title: Matemática Discreta
+    url: false
+    desc: MAD511
+  - title: Matemática II
+    url: false
+    desc: MAT512
+  - title: Programación I
+    url: false
+    desc: PRO141
