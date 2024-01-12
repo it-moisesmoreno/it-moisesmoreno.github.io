@@ -1,7 +1,7 @@
 ---
 layout: post
+title: Bachelor in Computer Science Engineering (BSE)
 ---
-# Bachelor in Computer Science Engineering (BSE)
 
 School: **[Universidad Don Bosco][udb-link]**
 
