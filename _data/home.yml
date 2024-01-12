@@ -2,11 +2,14 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+  - title: bse
+    url: /education/bse
 
   - title: java
     url: /developer_roadmaps/java_developer/java-developer
+
+  - title: blog
+    url: blog
 
 project_entries:
   - title: Open Weather
