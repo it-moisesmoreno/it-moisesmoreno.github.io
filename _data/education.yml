@@ -47,3 +47,36 @@ bse_course_entries:
   - title: Programación II
     url: false
     desc: PRO142
+  # Fourth semester
+  - title: Física II
+    url: false
+    desc: FIS522
+  - title: Matemática IV
+    url: false
+    desc: MAT514
+  - title: Programación III
+    url: false
+    desc: PRO143
+  - title: Sistemas Digitales I
+    url: false
+    desc: SDI111
+  - title: Sistemas Eléctricos Lineales I
+    url: false
+    desc: SEL521
+  # Fifth semester
+  - title: Base de Datos I
+    url: false
+    desc: BDD141
+  - title: Desarrollo Sostenible
+    url: false
+    desc: DES161
+  - title: Ingeniería Económica
+    url: false
+    desc: INE161
+  - title: Métodos Numéricos
+    url: false
+    desc: MEN511
+  - title: Microprocesadores
+    url: false
+    desc: MIC111
+  
