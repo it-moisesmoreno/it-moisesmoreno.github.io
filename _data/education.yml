@@ -31,3 +31,19 @@ bse_course_entries:
   - title: Programación I
     url: false
     desc: PRO141
+  # Third semester
+  - title: Electricidad y Magnetismo
+    url: false
+    desc: EMA511
+  - title: Estadística I
+    url: false
+    desc: EEST511
+  - title: Humanística III
+    url: false
+    desc: HUM233
+  - title: Matemática III
+    url: false
+    desc: MAT513
+  - title: Programación II
+    url: false
+    desc: PRO142
