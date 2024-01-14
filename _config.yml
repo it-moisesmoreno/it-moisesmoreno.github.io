@@ -2,7 +2,14 @@ title: Moisés Moreno's Personal Website
 author: Moisés Moreno
 url: https://it-moisesmoreno.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome to my little space on the web, where I share content related to software engineering and game development.
+  Welcome to my little space on the web, I'm Moisés Moreno.
+  <br>
+  I'm software engineer, right in the heart of San Salvador, El Salvador. 
+  My tech journey began with an internship at Global Solutions Latinoamérica, 
+  a international company of informatics services specialized in Software Development, 
+  in 2012, and I've been in an incredible ride since, evolving from an eager intern 
+  to a dedicated dev. I absolutely love developing usable, maintainable, scalable, available, 
+  extensible, secure, and portable software.
 
 permalink: /:slug
 
