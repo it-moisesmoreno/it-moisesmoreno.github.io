@@ -1,4 +1,159 @@
 bse_course_entries:
+# First semester
   - title: Algebra Lineal
     url: false
     desc: ALL511
+  - title: Expresión Oral y Escrita
+    url: false
+    desc: EOE211
+  - title: Humanística I
+    url: false
+    desc: HUM231
+  - title: Matemática I
+    url: false
+    desc: MAT511
+  - title: Química General
+    url: false
+    desc: QUG511
+  # Second semester
+  - title: Física I
+    url: false
+    desc: FIS521
+  - title: Humanística II
+    url: false
+    desc: HUM232
+  - title: Matemática Discreta
+    url: false
+    desc: MAD511
+  - title: Matemática II
+    url: false
+    desc: MAT512
+  - title: Programación I
+    url: false
+    desc: PRO141
+  # Third semester
+  - title: Electricidad y Magnetismo
+    url: false
+    desc: EMA511
+  - title: Estadística I
+    url: false
+    desc: EEST511
+  - title: Humanística III
+    url: false
+    desc: HUM233
+  - title: Matemática III
+    url: false
+    desc: MAT513
+  - title: Programación II
+    url: false
+    desc: PRO142
+  # Fourth semester
+  - title: Física II
+    url: false
+    desc: FIS522
+  - title: Matemática IV
+    url: false
+    desc: MAT514
+  - title: Programación III
+    url: false
+    desc: PRO143
+  - title: Sistemas Digitales I
+    url: false
+    desc: SDI111
+  - title: Sistemas Eléctricos Lineales I
+    url: false
+    desc: SEL521
+  # Fifth semester
+  - title: Base de Datos I
+    url: false
+    desc: BDD141
+  - title: Desarrollo Sostenible
+    url: false
+    desc: DES161
+  - title: Ingeniería Económica
+    url: false
+    desc: INE161
+  - title: Métodos Numéricos
+    url: false
+    desc: MEN511
+  - title: Microprocesadores
+    url: false
+    desc: MIC111
+  # Sixth semester
+  - title: Análisis y Diseño de Sistemas I
+    url: false
+    desc: ADS141
+  - title: Arquitectura de Computadoras
+    url: false
+    desc: ARC141
+  - title: Base de Datos II
+    url: false
+    desc: BDD142
+  - title: Interfaces y Periféricos
+    url: false
+    desc: IYP111
+  - title: Programación IV
+    url: false
+    desc: PRO144
+  # Seventh semester
+  - title: Análisis y Diseño de Sistemas II
+    url: false
+    desc: CCI161
+  - title: Contabilidad y Costos para Ingenieros
+    url: false
+    desc: ADS142
+  - title: Comunicación de Datos I
+    url: false
+    desc: CDA111
+  - title: Sistemas Operativos
+    url: false
+    desc: SIO141
+  - title: Teoría de la Computación
+    url: false
+    desc: TEC141
+  # Eighth semester
+  - title: Compiladores
+    url: false
+    desc: COP141
+  - title: Gestion e Innovacion
+    url: false
+    desc: GEI141
+  - title: Ingeniería de Software
+    url: false
+    desc: ISO141
+  - title: PHP
+    url: false
+    desc: PHP141
+    highlight: Electiva
+  # Nineth semester
+  - title: Auditoria de Sistemas
+    url: false
+    desc: ASI141
+  - title: Sistemas Expertos e Inteligencia Artificial
+    url: false
+    desc: SEI141
+  - title: Sistemas de Información Gerencial
+    url: false
+    desc: SIG141
+  - title: Java Avanzado
+    url: false
+    desc: JAA141
+    highlight: Electiva
+  # Tenth semester
+  - title: Formulación y Gestión de Proyectos
+    url: false
+    desc: FGP161
+    highlight: Electiva
+  - title: Ingeniería de la Web
+    url: false
+    desc: INW141
+    highlight: Electiva
+  - title: ASP
+    url: false
+    desc: ASP141
+    highlight: Electiva
+  - title: Normalizaciones y Estándares
+    url: false
+    desc: NYE141
+    highlight: Electiva
+  

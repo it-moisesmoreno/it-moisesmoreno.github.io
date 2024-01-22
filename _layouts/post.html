@@ -8,6 +8,6 @@ layout: default
 {{ content }}
 {% if site.theme_config.show_bse_curriculum == true %}
     <h2>{{ site.theme_config.education.title_bse_curriculum }}</h2>
-    {% include card_list.html collection=site.data.education.bse_course_entries %}
+    {% include card_list_curriculum.html collection=site.data.education.bse_course_entries %}
 {% endif %}
 
