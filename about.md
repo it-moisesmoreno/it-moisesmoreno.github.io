@@ -11,4 +11,4 @@ There are some essentials that every developer must have in today's world of sof
 [Basic Terminal Usage][yotube-basic-terminal-usage]  
 [Communication Skills](/essentials/communication-skills)
 
-[yotube-basic-terminal-usage]: https://youtu.be/hwhpKIZ6j00?si=uGeRmlalPrFrwK7U
+[yotube-basic-terminal-usage]: https://youtu.be/fIQEXORLTYg
