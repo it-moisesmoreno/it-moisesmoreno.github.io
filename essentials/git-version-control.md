@@ -12,9 +12,9 @@ I think understanding Git and version control is vital for developers as it enab
 ---
 [Demo Project][yotube-git-version-control]
 
-[yotube-git-version-control]: https://youtu.be/Rl2F4yNzJ4o
-[version-control-with-git]: https://drive.google.com/file/d/11n6g7gUkCvkGw2vV9yefavtiy4PM1Jnk/view?usp=sharing
-
 ## Courses
 
 [Version Control with Git][version-control-with-git]
+
+[yotube-git-version-control]: https://youtu.be/Rl2F4yNzJ4o
+[version-control-with-git]: https://drive.google.com/file/d/11n6g7gUkCvkGw2vV9yefavtiy4PM1Jnk/view?usp=sharing
