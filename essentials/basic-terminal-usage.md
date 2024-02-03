@@ -7,13 +7,10 @@ In my opinion learning basic terminal usage is essential for developers, providi
 
 ## Projects
 
-2024
-
----
 [Demo Project][yotube-basic-terminal-usage]  
 
 [yotube-basic-terminal-usage]: https://youtu.be/fIQEXORLTYg
-[shell-worshop]: https://drive.google.com/file/d/1vLF0U1r8_deTNRKJH6zdz60qAtTyBbcf/view?usp=sharing
+[shell-worshop]: https://drive.google.com/file/d/1vLF0U1r8_deTNRKJH6zdz60qAtTyBbcf/view?usp=drive_link
 
 ## Courses
 

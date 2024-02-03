@@ -7,9 +7,6 @@ I think understanding Git and version control is vital for developers as it enab
 
 ## Projects
 
-2024
-
----
 [Demo Project][yotube-git-version-control]
 
 ## Courses

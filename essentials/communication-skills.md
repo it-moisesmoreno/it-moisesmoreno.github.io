@@ -9,7 +9,7 @@ Nowadays, good communication skills are required for any job. However, demonstra
 
 [English Conversation Circles][yotube-playlist-conversation-circles]
 
-[Master in Software Architecture][yotube-playlist-master]
+[Defense Projects][yotube-playlist-master]
 
 [Learning C# by Developing Games with Unity][yotube-playlist-unity]
 
