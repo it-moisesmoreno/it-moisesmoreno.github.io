@@ -16,7 +16,8 @@ In this section, I want to showcase all my skills related to Java programming. F
 
 ## Courses
 
-[Learn Spring][course-java-spring-fundamentals&controllers]  
+[Learn Spring: Building an App][course-java-spring-building-an-app]  
+[Learn Spring: Fundamentals and Controllers][course-java-spring-fundamentals&controllers]  
 [Java Explorer][course-java-explorer]
 
 ## Self-study
@@ -26,3 +27,4 @@ In this section, I want to showcase all my skills related to Java programming. F
 [github-exercises]: https://github.com/it-moisesmoreno/Java
 [course-java-explorer]: https://drive.google.com/file/d/1hzRdFJnZonN1Dipzka36X8InxogQxrj3/view?usp=drive_link
 [course-java-spring-fundamentals&controllers]: https://drive.google.com/file/d/1aqlGjYzrNlssUwAGKqLI5tBCde1jg2yT/view?usp=drive_link
+[course-java-spring-building-an-app]: https://drive.google.com/file/d/1xJPzNPnvaNOIR6NDnT3gti9PeMBEYivR/view?usp=drive_link
