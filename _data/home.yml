@@ -12,6 +12,11 @@ navbar_entries:
     url: blog
 
 project_entries:
+  - title: Travel and Tourism Management System
+    url: https://youtu.be/HpIUVlOHF3A
+    desc: Java (Spring Framework)
+    highlight: Spring App
+
   - title: Two PC's communication
     url: https://youtu.be/3ivOQGk-8V0
     desc: Networking

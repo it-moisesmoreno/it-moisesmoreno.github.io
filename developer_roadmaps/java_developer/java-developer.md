@@ -14,6 +14,10 @@ In this section, I want to showcase all my skills related to Java programming. F
 [Diploma in Business Application Development in JAVA](/essentials/licenses-and-certifications)  
 [Java Certified Foundations Associate](/essentials/licenses-and-certifications)
 
+## Projects
+
+[Travel and Tourism Management System][project-travel-and-tourism-management-system]
+
 ## Courses
 
 [Learn Spring: Building an App][course-java-spring-building-an-app]  
@@ -24,7 +28,38 @@ In this section, I want to showcase all my skills related to Java programming. F
 
 [Java GitHub Repository][github-exercises]
 
+## Skills
+
+- Fundamentals
+  - Basic Syntax
+  - DataTypes, Variables
+  - Conditionals
+  - Functions
+  - Loops
+  - Exception Handling
+  - DataStructures
+  - OOP, Interfaces, Classes
+  - Packages
+  - Working wih Files and APIs
+- Advance
+  - Memory Management
+  - Collection Framework
+  - Serialization
+  - Networking & Sockets
+  - Generics
+  - Streams
+  - JVM
+  - Garbage Collection
+  - Basics of Threads
+- Build Tools
+  - Gradle
+  - Maven
+- Web Frameworks
+  - Spring
+  - Spring Boot
+
 [github-exercises]: https://github.com/it-moisesmoreno/Java
 [course-java-explorer]: https://drive.google.com/file/d/1hzRdFJnZonN1Dipzka36X8InxogQxrj3/view?usp=drive_link
 [course-java-spring-fundamentals&controllers]: https://drive.google.com/file/d/1aqlGjYzrNlssUwAGKqLI5tBCde1jg2yT/view?usp=drive_link
 [course-java-spring-building-an-app]: https://drive.google.com/file/d/1xJPzNPnvaNOIR6NDnT3gti9PeMBEYivR/view?usp=drive_link
+[project-travel-and-tourism-management-system]: https://youtu.be/HpIUVlOHF3A
