@@ -11,7 +11,7 @@ In my backend software development skills, I possess a strong foundation in desi
 
 ## Skills
 
-- Internet
+- [Internet](/developer_roadmaps/backend_developer/internet)
 - Programming language
   - [Java](/developer_roadmaps/java_developer/java-developer)
 

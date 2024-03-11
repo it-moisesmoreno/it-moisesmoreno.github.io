@@ -41,7 +41,7 @@ In this section, I want to showcase all my skills related to Java programming. F
   - OOP, Interfaces, Classes
   - Packages
   - Working wih Files and APIs
-- Advance
+- Advanced
   - Memory Management
   - Collection Framework
   - Serialization
