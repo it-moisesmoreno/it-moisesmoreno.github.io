@@ -2,11 +2,14 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: bse
+  - title: education
     url: /education/bse
 
   - title: backend
     url: /developer_roadmaps/backend_developer/backend-developer
+  
+  - title: frontend
+    url: /developer_roadmaps/frontend_developer/frontend-developer
 
   - title: blog
     url: blog
@@ -14,13 +17,8 @@ navbar_entries:
 project_entries:
   - title: Travel and Tourism Management System
     url: https://youtu.be/HpIUVlOHF3A
-    desc: Java (Spring Framework)
-    highlight: Spring App
-
-  - title: Two PC's communication
-    url: https://youtu.be/3ivOQGk-8V0
-    desc: Networking
-    highlight: Internet
+    desc: Java + Spring Framework
+    highlight: Spring Boot
     
   - title: Open Weather
     url: /projects/api-openweather
@@ -30,7 +28,17 @@ project_entries:
   - title: The Wheel
     url: /projects/the-wheel
     desc: Video game / Android
-    highlight: GAME
+    highlight: Game
+
+  - title: More than Two PCs communication
+    url: https://youtu.be/hlR1pkkIUyY
+    desc: Networking
+    highlight: Internet
+  
+  - title: Two PC's communication
+    url: https://youtu.be/3ivOQGk-8V0
+    desc: Networking
+    highlight: Internet
 
 old_project_entries:
   - title: Soopr
