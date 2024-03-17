@@ -8,10 +8,10 @@ tags: [Java, Spring Boot, Spring Framework]
 *This is a project in progress*
 
 ## Videos
-[APIs][apis]
+[APIs][apis]  
 [Basic Configuration][basic-configuration]
 
-[basic-configuration]:https://youtu.be/HpIUVlOHF3A
+[basic-configuration]:https://youtu.be/HpIUVlOHF3A  
 [apis]:https://youtu.be/lYAUiMzAN8I
 
 <!-- “Travel and Tourism Management System” is a comprehensive web-based platform designed to streamline the travel booking process for both customers and travel service providers. This system offers a user-friendly interface for customers to search, compare, and book flights, hotels, and tour packages, all within a single platform. With secure payment processing and real-time availability updates, customers can enjoy a seamless booking experience.
