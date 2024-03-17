@@ -12,8 +12,8 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "ruby --version",
-	"postCreateCommand": "./postCreateCommand.sh"
+	 "postCreateCommand": "ruby --version",
+	//"postCreateCommand": "./postCreateCommand.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
