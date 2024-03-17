@@ -13,7 +13,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "ruby --version",
-	"postCreateCommand": "./postCreateCommand.sh"
+	"postCreateCommand": "chmod u=rwx .devcontainer/postCreateCommand.sh && .devcontainer/postCreateCommand.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
