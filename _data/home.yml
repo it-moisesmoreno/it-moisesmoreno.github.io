@@ -26,6 +26,11 @@ project_entries:
     url: /projects/the-wheel
     desc: Video game / Android
     highlight: Game
+  
+  - title: Configure a Wireless Router and Client
+    url: https://youtu.be/SCrHvlQ2_ww
+    desc: CISCO NetAcad - Networking Basics - 4.4.4 Activity - Configuring a Wireless Router and Client
+    highlight: Internet
 
   - title: More than Two PCs communication
     url: https://youtu.be/hlR1pkkIUyY
