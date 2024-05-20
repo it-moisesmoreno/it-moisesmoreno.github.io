@@ -11,9 +11,6 @@ navbar_entries:
   - title: frontend
     url: /developer_roadmaps/frontend_developer/frontend-developer
 
-  - title: blog
-    url: blog
-
 project_entries:
   - title: Travel and Tourism Management System
     url: /projects/booking-system
