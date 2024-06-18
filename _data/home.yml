@@ -2,14 +2,18 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: education
-    url: /education/bse
-
   - title: backend
     url: /developer_roadmaps/backend_developer/backend-developer
   
   - title: frontend
     url: /developer_roadmaps/frontend_developer/frontend-developer
+
+  - title: education
+    url: /education/bse
+
+  - title: licenses-certifications
+    url: licenses-and-certifications
+  
 
 project_entries:
   - title: Travel and Tourism Management System

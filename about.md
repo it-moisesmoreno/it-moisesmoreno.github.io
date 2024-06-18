@@ -10,5 +10,5 @@ There are some essentials that every developer must have in today's world of sof
 
 [Basic Terminal Usage](/essentials/basic-terminal-usage)  
 [Git - Version Control](/essentials/git-version-control)  
-[Licenses & Certifications](/essentials/licenses-and-certifications)  
+[Licenses & Certifications](licenses-and-certifications)  
 [Communication Skills](/essentials/communication-skills)

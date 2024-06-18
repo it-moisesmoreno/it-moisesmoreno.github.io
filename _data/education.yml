@@ -135,7 +135,7 @@ bse_course_entries:
   - title: Sistemas de Información Gerencial
     url: false
     desc: SIG141
-  - title: Java Avanzado
+  - title: Java Avanzado <a name="JAA141"></a>
     url: false
     desc: JAA141
     highlight: Electiva
