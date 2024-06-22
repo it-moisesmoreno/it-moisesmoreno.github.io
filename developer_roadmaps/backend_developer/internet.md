@@ -13,7 +13,7 @@ As an IT professional, I possess a strong foundation in internet technologies an
 
 [Certification of Completion: Network Fundamentals](/licenses-and-certifications/#certification-completion-network-fundamentals)
 
-## Projects
+## Projects <a name="internet-projects"></a>  
 
 [Configure a Wireless Router and Client][project-configure-wireless-router-client]  
 [More than two PCs communication][project-two-pc-communication]  

@@ -17,9 +17,9 @@ In this section, I want to showcase all my skills related to Java programming. F
 
 [Java Certified Foundations Associate](/licenses-and-certifications/#java-foundations-associate)
 
-## Projects
+## Projects <a name="java-projects"></a>  
 
-[Travel and Tourism Management System][project-travel-and-tourism-management-system]
+[Travel and Tourism Management System][project-travel-and-tourism-management-system]  
 
 ## Courses
 
