@@ -11,11 +11,11 @@ In this section, I want to showcase all my skills related to Java programming. F
 
 ## Licenses & certifications
 
-[Diploma in Business Application Development in JAVA: Programming in java language and object oriented design](/licenses-and-certifications/#certification-diploma-java-specialization-modulo-2)  
+[Diploma in Business Application Development in JAVA: Programming in java language and object oriented design](/licenses-and-certifications#certification-diploma-java-specialization-modulo-2)  
 
-[Diploma in Business Application Development in JAVA: Fundamentals of java programming language](/licenses-and-certifications/#certification-diploma-java-specialization-modulo-1)  
+[Diploma in Business Application Development in JAVA: Fundamentals of java programming language](/licenses-and-certifications#certification-diploma-java-specialization-modulo-1)  
 
-[Java Certified Foundations Associate](/licenses-and-certifications/#java-foundations-associate)
+[Java Certified Foundations Associate](/licenses-and-certifications#java-foundations-associate)
 
 ## Projects <a name="java-projects"></a>  
 
