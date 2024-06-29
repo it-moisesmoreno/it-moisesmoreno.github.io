@@ -19,7 +19,7 @@ In this section, I want to showcase all my skills related to Java programming. F
 
 ## Projects <a name="java-projects"></a>  
 
-[Travel and Tourism Management System][project-travel-and-tourism-management-system]  
+[Travel and Tourism Management System](/projects/booking-system)
 
 ## Courses
 
