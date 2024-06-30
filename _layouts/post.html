@@ -7,7 +7,7 @@ layout: default
 {% include date_and_social_share.html %}
 {{ content }}
 {% if site.theme_config.show_bse_curriculum == true and
-    page.title == "Bachelor in Computer Science Engineering (BSE)"
+    page.title == "Bachelor"
     %}
     <h2>{{ site.theme_config.education.title_bse_curriculum }}</h2>
     {% include card_list_curriculum.html collection=site.data.education.bse_course_entries %}

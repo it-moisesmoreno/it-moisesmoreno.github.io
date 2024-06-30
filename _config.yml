@@ -47,7 +47,7 @@ theme_config:
     title_old_projects: Old Projects
   # options for "education" page
   education:
-    title_bse_curriculum: Curriculum
+    title_bse_curriculum: Curriculum (2009)
   
 
 soopr:

@@ -3,7 +3,7 @@ navbar_entries:
     url: about
 
   - title: education
-    url: /education/bse
+    url: /education/education
 
   - title: licenses-certifications
     url: licenses-and-certifications
