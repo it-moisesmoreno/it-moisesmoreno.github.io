@@ -6,11 +6,11 @@ layout: default
 <h1 class="post-title">{{ page.title }}</h1>
 {% include date_and_social_share.html %}
 {{ content }}
-{% if site.theme_config.show_bse_curriculum == true and
+{% if site.theme_config.show_bsc_curriculum == true and
     page.title == "Bachelor"
     %}
-    <h2>{{ site.theme_config.education.title_bse_curriculum }}</h2>
-    {% include card_list_curriculum.html collection=site.data.education.bse_course_entries %}
+    <h2>{{ site.theme_config.education.title_bsc_curriculum }}</h2>
+    {% include card_list_curriculum.html collection=site.data.education.bsc_course_entries %}
 {% endif %}
 {% if site.theme_config.show_msc_curriculum == true and
     page.title == "Master"

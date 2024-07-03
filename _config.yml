@@ -38,7 +38,7 @@ theme_config:
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   # following keys are using to create education layout
-  show_bse_curriculum: true # show courses as cards, add in _data/education.yml
+  show_bsc_curriculum: true # show courses as cards, add in _data/education.yml
   show_msc_curriculum: true # show courses as cards, add in _data/education_msc.yml
   # options for "home" page
   home:
@@ -48,7 +48,7 @@ theme_config:
     title_old_projects: Old Projects
   # options for "education" page
   education:
-    title_bse_curriculum: Curriculum (2009)
+    title_bsc_curriculum: Curriculum (2009)
     title_msc_curriculum: Curriculum (2019)
   
 
