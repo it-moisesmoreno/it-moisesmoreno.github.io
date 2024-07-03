@@ -15,7 +15,7 @@ Semesters: **4**
 Grade: **9.3** (GPA: 4.0)  
 Status: **Ongoing**
 
-## Projects
+## Projects <a name="projects"></a>
 - [Software Development Design for Farma Móvil][project-software-development-design-for-farma-movil]
 - [SOA implementation consultancy for Alas Unidas][project-soa-implementation-consultancy-for-alas-unidas]
 

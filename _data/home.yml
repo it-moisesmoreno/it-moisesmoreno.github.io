@@ -17,6 +17,16 @@ project_entries:
     desc: Java + Spring Framework
     highlight: Spring Boot
     
+  - title: Software Development Design for Farma Móvil
+    url: /education/msc#projects
+    desc: Academic project
+    highlight: Academic
+  
+  - title: BPM Process Integration oriented tools
+    url: /education/msc#projects
+    desc: Academic project
+    highlight: Academic
+  
   - title: Open Weather
     url: /projects/api-openweather
     desc: A Weather API
@@ -26,39 +36,22 @@ project_entries:
     url: /projects/the-wheel
     desc: Video game / Android
     highlight: Game
-  
+
   - title: Configure a Wireless Router and Client
     url: https://youtu.be/SCrHvlQ2_ww
     desc: CISCO NetAcad - Networking Basics - 4.4.4 Activity - Configuring a Wireless Router and Client
     highlight: Internet
-
+  
+old_project_entries:
   - title: More than Two PCs communication
     url: https://youtu.be/hlR1pkkIUyY
     desc: Networking
     highlight: Internet
-  
+
   - title: Two PC's communication
     url: https://youtu.be/3ivOQGk-8V0
     desc: Networking
     highlight: Internet
-
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: linkedin
