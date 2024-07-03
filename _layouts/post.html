@@ -12,4 +12,10 @@ layout: default
     <h2>{{ site.theme_config.education.title_bse_curriculum }}</h2>
     {% include card_list_curriculum.html collection=site.data.education.bse_course_entries %}
 {% endif %}
+{% if site.theme_config.show_msc_curriculum == true and
+    page.title == "Master"
+    %}
+    <h2>{{ site.theme_config.education.title_msc_curriculum }}</h2>
+    {% include card_list_curriculum.html collection=site.data.education_msc.msc_course_entries %}
+{% endif %}
 

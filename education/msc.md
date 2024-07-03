@@ -12,9 +12,8 @@ Degree:
 Duration: **2 years**  
 Courses: **12**  
 Semesters: **4**    
-Grade: **9.3** (GPA: ...)  
+Grade: **9.3** (GPA: 4.0)  
 Status: **Ongoing**
- 
 
 [udb-link]: https://www.udb.edu.sv/udb/
 [msc-link]: https://www.udbvirtual.edu.sv/maestria_arquitectura_software

@@ -1,0 +1,27 @@
+msc_course_entries:
+# First semester
+  - title: Ingeniería de Requisitos
+    url: false
+    desc: INR908
+  - title: Sistemas de Información Empresariales
+    url: false
+    desc: SIS908
+  - title: Dirección, Negociación y Riesgos de proyectos Informáticos
+    url: false
+    desc: DNR908
+  - title: Calidad en el Desarrollo de Software Aplicando Modelo CMMI
+    url: false
+    desc: CDS908
+# Second semester
+  - title: Seguridad en el Desarrollo de Sistemas
+    url: false
+    desc: SDS908
+  - title: Auditoría y Asesoría de Sistemas
+    url: false
+    desc: AAS908
+  - title: Desarrollo y Reutilización de Software
+    url: false
+    desc: DRS908
+  - title: Ingeniería en Desarrollo de Software
+    url: false
+    desc: IDS908

@@ -39,6 +39,7 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # following keys are using to create education layout
   show_bse_curriculum: true # show courses as cards, add in _data/education.yml
+  show_msc_curriculum: true # show courses as cards, add in _data/education_msc.yml
   # options for "home" page
   home:
     title_projects: Portfolio
@@ -48,6 +49,7 @@ theme_config:
   # options for "education" page
   education:
     title_bse_curriculum: Curriculum (2009)
+    title_msc_curriculum: Curriculum (2019)
   
 
 soopr:
