@@ -22,27 +22,42 @@ project_entries:
     desc: Academic project
     highlight: Academic
   
-  - title: BPM Process Integration oriented tools
+  - title: SOA implementation consultancy for Alas Unidas
+    url: /education/msc#projects
+    desc: Academic project
+    highlight: Academic
+
+  - title: Network infrastructure for EcommerceSv
     url: /education/msc#projects
     desc: Academic project
     highlight: Academic
   
-  - title: Open Weather
-    url: /projects/api-openweather
-    desc: A Weather API
-    highlight: API
+  - title: CMMI Model Profile for InnovateTech Solutions
+    url: /education/msc#projects
+    desc: Academic project
+    highlight: Academic
   
+  - title: Risks related to the El Salvador Medical Center Software Project
+    url: /education/msc#projects
+    desc: Academic project
+    highlight: Academic
+  
+old_project_entries:
   - title: The Wheel
     url: /projects/the-wheel
     desc: Video game / Android
     highlight: Game
 
+  - title: Open Weather
+    url: /projects/api-openweather
+    desc: A Weather API
+    highlight: API
+
   - title: Configure a Wireless Router and Client
     url: https://youtu.be/SCrHvlQ2_ww
     desc: CISCO NetAcad - Networking Basics - 4.4.4 Activity - Configuring a Wireless Router and Client
     highlight: Internet
-  
-old_project_entries:
+
   - title: More than Two PCs communication
     url: https://youtu.be/hlR1pkkIUyY
     desc: Networking
