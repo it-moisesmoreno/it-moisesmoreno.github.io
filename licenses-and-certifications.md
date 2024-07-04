@@ -5,29 +5,31 @@ title: Licenses and Certifications
 
 Licenses and certifications play a crucial role in my career for several reasons: professional credibility, career advancement, skill enhancement, industry standards, employer confidence, global recognition and client trust.
 
-2023
+## 2023
 
----
+- [Diploma in Business Application Development in JAVA: Programming in java language and object oriented design][certification-diploma-java-specialization-modulo-2]<a name="certification-diploma-java-specialization-modulo-2"></a>
 
-[Diploma in Business Application Development in JAVA: Programming in java language and object oriented design][certification-diploma-java-specialization-modulo-2]<a name="certification-diploma-java-specialization-modulo-2"></a>
+- [Diploma in Business Application Development in JAVA: Fundamentals of java programming language][certification-diploma-java-specialization-modulo-1]<a name="certification-diploma-java-specialization-modulo-1"></a>
 
-[Diploma in Business Application Development in JAVA: Fundamentals of java programming language][certification-diploma-java-specialization-modulo-1]<a name="certification-diploma-java-specialization-modulo-1"></a>
+- [Java Certified Foundations Associate][java-foundations-associate]<a name="java-foundations-associate"></a>
 
-[Java Certified Foundations Associate][java-foundations-associate]<a name="java-foundations-associate"></a>
+## 2012
 
-2011
+- [Certification of Completion, CCNA Exploration: Accessing the WAN][certification-completion-CCNA-Exploration-Accessing-the-WAN]<a name="certification-completion-CCNA-Exploration-Accessing-the-WAN"></a>
 
----
-[Certification of Completion: LAN Switching and Wireless][certification-completion-lan-switching-wireless]<a name="certification-completion-lan-switching-wireless"></a>
+## 2011
 
-[Certification of Completion: Routing Protocols and Concepts][certification-completion-routing-protocol-concepts]<a name="certification-completion-routing-protocol-concepts"></a>
+- [Certification of Completion, CCNA Exploration: LAN Switching and Wireless][certification-completion-lan-switching-wireless]<a name="certification-completion-lan-switching-wireless"></a>
 
-[Certification of Completion: Network Fundamentals][certification-completion-network-fundamentals]<a name="certification-completion-network-fundamentals"></a>
+- [Certification of Completion, CCNA Exploration: Routing Protocols and Concepts][certification-completion-routing-protocol-concepts]<a name="certification-completion-routing-protocol-concepts"></a>
 
-[Certification of Completion: Intensive English Program][certification-completion-english]
+- [Certification of Completion, CCNA Exploration: Network Fundamentals][certification-completion-network-fundamentals]<a name="certification-completion-network-fundamentals"></a>
 
-[Diploma of Participation: Theoretical-practical Guitar Workshop][diploma-participation-guitar]
+- [Certification of Completion: Intensive English Program][certification-completion-english]
 
+- [Diploma of Participation: Theoretical-practical Guitar Workshop][diploma-participation-guitar]
+
+[certification-completion-CCNA-Exploration-Accessing-the-WAN]: https://drive.google.com/file/d/14PInnifscya_p2jX52dPTEi-YXi-EAqh/view?usp=sharing
 
 [certification-diploma-java-specialization-modulo-2]: https://drive.google.com/file/d/1fO3VB_jZn_IxPCIzr1grPScLG35WNXQC/view?usp=drive_link
 
