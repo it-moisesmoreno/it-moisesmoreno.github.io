@@ -5,11 +5,14 @@ navbar_entries:
   - title: education
     url: /education/education
 
-  - title: licenses-certifications
+  - title: licenses&certifications
     url: licenses-and-certifications
   
   - title: skills
     url: /skills/skills
+
+  - title: honors&awards
+    url: honors-and-awards
   
 project_entries:
   - title: Travel and Tourism Management System
