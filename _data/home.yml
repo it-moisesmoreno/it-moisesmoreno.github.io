@@ -17,8 +17,13 @@ navbar_entries:
 project_entries:
   - title: Travel and Tourism Management System
     url: /projects/booking-system
-    desc: Java + Spring Framework
+    desc: Java + Spring Boot
     highlight: Spring Boot
+
+  - title: Tecnomedica
+    url: https://tecnomedica-sv.com
+    desc: PHP + CodeIgniter
+    highlight: Web system
     
   - title: Software Development Design for Farma Móvil
     url: /education/msc#projects
@@ -39,11 +44,7 @@ project_entries:
     url: /education/msc#projects
     desc: Academic project
     highlight: Academic
-  
-  - title: Risks related to the El Salvador Medical Center Software Project
-    url: /education/msc#projects
-    desc: Academic project
-    highlight: Academic
+
   
 old_project_entries:
   - title: The Wheel
