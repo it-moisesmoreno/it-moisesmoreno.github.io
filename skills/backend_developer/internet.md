@@ -7,11 +7,11 @@ As an IT professional, I possess a strong foundation in internet technologies an
 
 ## Licenses & certifications
 
-[Certification of Completion: LAN Switching and Wireless](/licenses-and-certifications#certification-completion-lan-switching-wireless)  
+[Certificate of Completion: LAN Switching and Wireless](/licenses-and-certifications#certificate-completion-lan-switching-wireless)  
 
-[Certification of Completion: Routing Protocols and Concepts](/licenses-and-certifications#certification-completion-routing-protocol-concepts)  
+[Certificate of Completion: Routing Protocols and Concepts](/licenses-and-certifications#certificate-completion-routing-protocol-concepts)  
 
-[Certification of Completion: Network Fundamentals](/licenses-and-certifications#certification-completion-network-fundamentals)
+[Certificate of Completion: Network Fundamentals](/licenses-and-certifications#certificate-completion-network-fundamentals)
 
 ## Projects <a name="internet-projects"></a>  
 
