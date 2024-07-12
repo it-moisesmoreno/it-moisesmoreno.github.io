@@ -8,20 +8,17 @@ tags: [Java, Spring Boot, Docker, PLSQL, JWT, HTML, Shell]
 *This is a project in progress*
 
 ## Repository
-[GitHub][github-repo]
+- [GitHub][github-repo]
 
-## Videos
-
-[JWT Security][jwt-security]  
-
-[APIs][apis]  
-
-[Basic Configuration][basic-configuration]  
+## Demo Videos
+- [JWT Security][jwt-security]  
+- [APIs][apis]  
+- [Basic Configuration][basic-configuration]  
 
 ## Tech Stack
 HTML, JWT, Java, Spring Boot, PLSQL, Docker, Shell
 
-[basic-configuration]: https://youtu.be/HpIUVlOHF3A  
+[basic-configuration]: https://youtu.be/_cT65mJk7Qg
 [apis]: https://youtu.be/lYAUiMzAN8I
 [github-repo]: https://github.com/it-moisesmoreno/travel-and-tourism-management-system
 [jwt-security]: https://youtu.be/By0G4TXOYdM
