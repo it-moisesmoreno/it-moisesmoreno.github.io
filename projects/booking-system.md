@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Java, Spring Boot, Docker, PLSQL, JWT, HTML, Shell]
+tags: [Java, Docker, HTML, PLSQL, Shell, Spring Boot, JWT, API RESTful]
 ---
 
 "Travel and Tourism Management System" is a comprehensive web-based platform designed to streamline the travel booking process for travel service providers.
@@ -16,7 +16,7 @@ tags: [Java, Spring Boot, Docker, PLSQL, JWT, HTML, Shell]
 - [Basic Configuration][basic-configuration]  
 
 ## Tech Stack
-HTML, JWT, Java, Spring Boot, PLSQL, Docker, Shell
+HTML, JWT, Java, Spring Boot, PLSQL, Docker, Shell, API RESTful
 
 [basic-configuration]: https://youtu.be/_cT65mJk7Qg
 [apis]: https://youtu.be/lYAUiMzAN8I
