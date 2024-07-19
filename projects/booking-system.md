@@ -18,7 +18,7 @@ tags: [Java, Docker, HTML, PLSQL, Shell, Spring Boot, JWT, API RESTful]
 ## Tech Stack
 HTML, JWT, Java, Spring Boot, PLSQL, Docker, Shell, API RESTful
 
-[basic-configuration]: https://youtu.be/_cT65mJk7Qg
-[apis]: https://youtu.be/lYAUiMzAN8I
 [github-repo]: https://github.com/it-moisesmoreno/travel-and-tourism-management-system
-[jwt-security]: https://youtu.be/By0G4TXOYdM
+[basic-configuration]: https://youtu.be/_cT65mJk7Qg
+[apis]: https://youtu.be/5WchUBJSwk8
+[jwt-security]: https://youtu.be/JafOYvmm8qg
