@@ -10,7 +10,7 @@ Licenses and certifications play a crucial role in my career for several reasons
 <a name="diploma-java-specialization-modulo-2"></a>
 - [Diploma in Business Application Development in JAVA: Fundamentals of java programming language][diploma-java-specialization-modulo-1]
 <a name="diploma-java-specialization-modulo-1"></a>
-- [Java Certified Foundations Associate][java-foundations-associate]<a name="java-foundations-associate"></a>
+- [Java Certified Foundations Associate, issued by ORACLE][java-foundations-associate]<a name="java-foundations-associate"></a>
 
 ## 2014
 - [Diploma of Participation: Advanced English][diploma_participation_AE_advanced_English]
@@ -22,15 +22,16 @@ Licenses and certifications play a crucial role in my career for several reasons
 - [CASAS][CASAS]
 
 ## 2012
-- [Certificate of Completion, CCNA Exploration: Accessing the WAN][certificate-completion-CCNA-Exploration-Accessing-the-WAN]
+- [Certificate of Completion, CISCO CCNA Exploration: Accessing the WAN][certificate-completion-CCNA-Exploration-Accessing-the-WAN]
 <a name="certificate-completion-CCNA-Exploration-Accessing-the-WAN"></a>
 
 ## 2011
-- [Certificate of Completion, CCNA Exploration: LAN Switching and Wireless][certificate-completion-lan-switching-wireless]
+- [Certificate of Completion, CISCO CCNA Exploration: LAN Switching and Wireless][certificate-completion-lan-switching-wireless]
 <a name="certificate-completion-lan-switching-wireless"></a>
-- [Certificate of Completion, CCNA Exploration: Routing Protocols and Concepts][certificate-completion-routing-protocol-concepts]
+- [Certificate of Completion, CISCO CCNA Exploration: Routing Protocols and Concepts][certificate-completion-routing-protocol-concepts]
 <a name="certificate-completion-routing-protocol-concepts"></a>
-- [Certificate of Completion, CCNA Exploration: Network Fundamentals][certificate-completion-network-fundamentals]<a name="certificate-completion-network-fundamentals"></a>
+- [Certificate of Completion, CISCO CCNA Exploration: Network Fundamentals][certificate-completion-network-fundamentals]
+<a name="certificate-completion-network-fundamentals"></a>
 - [Certificate of Completion: Intensive English Program][certificate-completion-english]
 - [Diploma of Participation: Theoretical-practical Guitar Workshop][diploma-participation-guitar]
 

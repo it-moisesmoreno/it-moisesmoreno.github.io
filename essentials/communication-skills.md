@@ -9,11 +9,11 @@ Nowadays, good communication skills are required for any job. However, demonstra
 
 [English Conversation Circles][yotube-playlist-conversation-circles]
 
-[Defense Projects][yotube-playlist-master]
+[Master's Projects Defense][yotube-playlist-master]
 
-[Learning C# by Developing Games with Unity][yotube-playlist-unity]
+[Demo Projects][demo-projects]
 
-[yotube-playlist-unity]: https://www.youtube.com/watch?v=gO3DpVAWbcU&list=PLH524I4mqWNV_f6MugYDHKyQNwjzNZF94
+[demo-projects]: https://www.youtube.com/watch?v=3ivOQGk-8V0&list=PLH524I4mqWNVjPQM6Etkwbo2tWpq503Y-
 
 [yotube-playlist-master]: https://www.youtube.com/watch?v=DvtkBpqzf8g&list=PLH524I4mqWNUk2NBEgog2DDORtfAxO-ju
 
