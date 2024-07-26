@@ -7,11 +7,11 @@ I view frontend development as the intersection of creativity and functionality 
 
 ## Self-study
 
-- [HTML Github Repository][github-html-repository]
+- [Self-Study Repository][github-html-repository]
 
 ## Skills
 
-- [Internet](/developer_roadmaps/backend_developer/internet)
+- [Internet](/skills/backend_developer/internet)
 - HTML
 
 [github-html-repository]:https://github.com/it-moisesmoreno/html
