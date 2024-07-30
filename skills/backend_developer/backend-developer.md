@@ -7,9 +7,8 @@ In my backend software development skills, I possess a strong foundation in desi
 
 ## Projects
 
-[Java projects](../java_developer/java-developer#java-projects)  
-
-[Internet projects](internet#internet-projects)
+- [Java projects](../java_developer/java-developer#java-projects)  
+- [Internet projects](internet#internet-projects)  
 
 ## Skills
 

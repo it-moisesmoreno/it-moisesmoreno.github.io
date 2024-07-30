@@ -102,7 +102,7 @@ bsc_course_entries:
   - title: Contabilidad y Costos para Ingenieros
     url: false
     desc: ADS142
-  - title: Comunicación de Datos I
+  - title: Comunicación de Datos I <a name="CDA111"></a>
     url: false
     desc: CDA111
   - title: Sistemas Operativos
