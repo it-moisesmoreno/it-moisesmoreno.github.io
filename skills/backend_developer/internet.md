@@ -5,21 +5,6 @@ title: Internet
 
 As an IT professional, I possess a strong foundation in internet technologies and networking principles, allowing me to effectively navigate and troubleshoot various aspects of online infrastructure. I have a deep understanding of how the internet works, including the underlying protocols such as HTTP, TCP/IP, and DNS, which enables me to diagnose and resolve network issues efficiently. Additionally, I am proficient in configuring and managing web servers, understanding hosting environments, and optimizing website performance. My expertise extends to browser functionality and compatibility, ensuring seamless user experiences across different platforms and devices. With a proactive approach to staying updated on the latest trends and advancements in internet technology, I am well-equipped to leverage emerging tools and techniques to drive innovation and enhance online capabilities.
 
-## Education
-- [Comunicación de Datos I (CDA111)](/education/bsc#CDA111)
-
-## Licenses & certifications
-- [Certificate of Completion, CISCO CCNA Exploration: Accessing the WAN](/licenses-and-certifications#certificate-completion-CCNA-Exploration-Accessing-the-WAN)
-- [Certificate of Completion, CISCO CCNA Exploration: LAN Switching and Wireless](/licenses-and-certifications#certificate-completion-lan-switching-wireless)
-- [Certificate of Completion, CISCO CCNA Exploration: Routing Protocols and Concepts](/licenses-and-certifications#certificate-completion-routing-protocol-concepts)
-- [Certificate of Completion, CISCO CCNA Exploration: Network Fundamentals](/licenses-and-certifications#certificate-completion-network-fundamentals)
-
-## Projects <a name="internet-projects"></a>  
-- [Configure a Wireless Router and Client][project-configure-wireless-router-client]
-- [More than two PCs communication][project-more-than-two-pc-communication]
-- [Two PCs communication][project-two-pc-communication]
-
-## Skills
 - Communication in a Connected World
     - Network Types
         - Local Networks
@@ -146,7 +131,48 @@ As an IT professional, I possess a strong foundation in internet technologies an
         - Access Layer Communication
         - Address Resolution Protocol
         - ARP
-
-[project-two-pc-communication]:https://youtu.be/3ivOQGk-8V0
-[project-more-than-two-pc-communication]:https://youtu.be/hlR1pkkIUyY
-[project-configure-wireless-router-client]:https://youtu.be/SCrHvlQ2_ww
+- Routing Between Networks
+    - The Routing Table
+        - Router Packet Forwading
+        - Messages Within and Between Networks
+        - Routing Table Entries
+        - The Default Gateway
+    - Create a LAN (Local Area Network)
+        - Local and Remote Network Segments
+- TCP and UDP
+    - TCP and UDP
+        - TCP and UDP Operation
+    - Port Numbers
+        - Transport Layer Port Numbers
+        - TCP and UDP Port Numbers
+        - Socket Pairs
+        - The netstat Command
+- Application Layer Services
+    - The Client Server Relationship
+        - Client and Server Interaction
+        - Web Server and Client IP Interactions
+        - URI, URN, and URL
+    - Network Application Services
+        - Common Network Application Services
+    - Domain Name System
+        - DNS Servers
+    - Web Clients and Servers
+        - HTTP and HTML
+    - FTP Clients and Servers
+        - File Transfer Protocol
+        - FTP Client Software
+        - Use FTP Services
+    - Virtual Terminals
+        - Remote Access with Telnet or SSH
+        - Telnet
+        - Secutity Issues with Telnet
+        - Use Telnet and SSH
+    - Email and Messaging
+        - Email Clients and Servers
+        - Email Protocols
+        - Text Messaging
+        - Internet Phone Calls
+- Network Testing Utilities
+    - Troubleshooting Commands
+        - The ipconfig Command
+        - The ping Command
