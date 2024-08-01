@@ -1,0 +1,88 @@
+---
+layout: post
+title: HTML
+---
+
+As a web developer, I have embarked on a journey to master the fundamentals of HTML, the cornerstone of web design and development. Through self-study, hands-on practice, I've gained a solid understanding of basic HTML concepts, including structuring web pages, using elements and attributes, creating lists, linking pages, embedding images, and building simple forms. This webpage showcases my progress, reflecting my dedication to learning and growing in the field of web development.
+
+- Introduction and basics
+    - Editors
+    - Basic
+    - Elements
+    - Attributes
+    - Comments
+- Formatting and style
+    - Headings
+    - Paragraphs
+    - Styles
+    - Formatting
+    - Quotations
+    - CSS
+    - Favicon
+    - Page Title
+    - Block and inline
+    - Div
+    - Classes
+    - Head
+    - Layout
+    - Responsive
+    - Semantics
+    - Style guide
+    - Entities
+    - Symbols
+    - Charsets
+    - URL encodings
+    - HTML vs XHTML
+- Colors
+    - Colors
+    - RGB
+    - HEX
+    - HSL
+- Links
+    - Colors
+    - Bookmarks
+- Images
+    - Maps
+    - Background
+    - Picture element
+    - Tables
+    - Tables
+    - Borders
+    - Sizes
+    - Headers
+    - Padding and spacing
+    - Colspan and rowspan
+    - Styling
+    - Colgroup
+- Lists
+    - Unordered lists
+    - Ordered lists
+    - Other lists
+- More HTML elements
+    - Iframes
+    - Computercode
+    - Emojis
+- Logic
+    - JavaScript
+- Forms
+    - Forms
+    - Attributes
+    - Elements
+    - Input types
+    - Input attributes
+    - Input form attributes
+- Graphics
+    - Canvas
+    - SVG
+- Multimedia
+    - Multimedia
+    - Video
+    - Audio
+    - Plugins
+    - Youtube
+- APIs
+    - Geolocation/
+    - Drag-and-drop/
+    - Web storage
+    - Web workers
+    - SSE

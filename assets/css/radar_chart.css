@@ -34,6 +34,7 @@
     width: max-content;
     position: relative;
     text-wrap: nowrap;
+    color: orange;
 }
 
 /* other styles */
