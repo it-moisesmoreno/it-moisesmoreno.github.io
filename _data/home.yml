@@ -3,13 +3,16 @@ navbar_entries:
     url: about
 
   - title: education
-    url: /education/education
+    url: education/education
 
   - title: licenses&certifications
     url: licenses-and-certifications
+
+  - title: projects
+    url: projects/projects
   
   - title: skills
-    url: /skills/skills
+    url: skills/skills
 
   - title: honors&awards
     url: honors-and-awards
@@ -114,5 +117,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
