@@ -8,12 +8,20 @@ title: Projects
 ## By Date  
 - 2024
     - [Travel and Tourism Management System](booking-system)
+    - [HTML Self-Study Repository][html-self-study-repository]
 - 2023
     - [Java Self-Study Repository][java-self-study-repository]
 
-[java-self-study-repository]: https://github.com/it-moisesmoreno/java
-
 ## By Skill  
-- Java
-    - [Travel and Tourism Management System](booking-system)
-    - [Java Self-Study Repository][java-self-study-repository]
+- Frontend Development
+    - HTML
+        - [HTML Self-Study Repository][html-self-study-repository]
+
+- Backend Development
+    - Java
+        - [Travel and Tourism Management System](booking-system)
+        - [Java Self-Study Repository][java-self-study-repository]
+
+[java-self-study-repository]: https://github.com/it-moisesmoreno/java
+[html-self-study-repository]: https://github.com/it-moisesmoreno/html
+[basic-terminal-usage]: https://www.youtube.com/watch?v=fIQEXORLTYg
