@@ -13,7 +13,7 @@ Duration: **2 years**
 Courses: **12**  
 Semesters: **4**    
 Grade: **9.3** (GPA: 4.0)  
-Status: **Ongoing**
+Status: **Enrolled**
 
 ## Projects <a name="projects"></a>
 - [Software Development Design for Farma Móvil][project-IDS908]
