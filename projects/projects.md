@@ -7,6 +7,7 @@ title: Projects
 
 ## By Date  
 - 2024
+    - [Spring Boot Self-Study Repository][spring-boot-self-study-repository]
     - [Travel and Tourism Management System](booking-system)
     - [HTML Self-Study Repository][html-self-study-repository]
 - 2023
@@ -19,9 +20,12 @@ title: Projects
 
 - Backend Development
     - Java
-        - [Travel and Tourism Management System](booking-system)
+        - Spring Boot
+            - [Spring Boot Self-Study Repository][spring-boot-self-study-repository]
+            - [Travel and Tourism Management System](booking-system)
         - [Java Self-Study Repository][java-self-study-repository]
 
+[spring-boot-self-study-repository]: https://github.com/it-moisesmoreno/spring-core
 [java-self-study-repository]: https://github.com/it-moisesmoreno/java
 [html-self-study-repository]: https://github.com/it-moisesmoreno/html
 [basic-terminal-usage]: https://www.youtube.com/watch?v=fIQEXORLTYg

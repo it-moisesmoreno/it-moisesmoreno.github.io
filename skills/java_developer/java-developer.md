@@ -31,4 +31,4 @@ In this section, I want to showcase all my skills related to Java programming. F
   - Maven
 - Web Frameworks
   - Spring
-  - Spring Boot
+  - [Spring Boot](/skills/spring_boot/spring-boot-developer)

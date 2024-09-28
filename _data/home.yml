@@ -50,6 +50,11 @@ project_entries:
 
   
 old_project_entries:
+  - title: Spring Boot Self-Study Repository
+    url: https://github.com/it-moisesmoreno/spring-core
+    desc: Self-Study Repository
+    highlight: Spring Boot
+
   - title: The Wheel
     url: /projects/the-wheel
     desc: Video game / Android
