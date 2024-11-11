@@ -25,3 +25,10 @@ msc_course_entries:
   - title: Ingeniería en Desarrollo de Software
     url: false
     desc: IDS908
+# Third semester
+  - title: Inteligencia de Negocios
+    url: false
+    desc: IDN908
+  - title: Ética y Empresa
+    url: false
+    desc: EYE908

@@ -25,6 +25,7 @@ Status: **Enrolled**
 - [Proposal for software requirements engineering for the Foundation for the Development of El Salvador][project-INR908]
 
 ## Papers
+ - [Contribution of Artificial Intelligence to Business Intelligence][paper-IDN908]
  - [Cloud Service Providers][paper-IDS908-00]  
  - [Software Architect's Profile][paper-IDS908-01]
  - [BPM Process Integration oriented tools][paper-DRS908]
@@ -34,6 +35,9 @@ Status: **Enrolled**
  - [Continuous improvement in project management][paper-DNR908]
  - [SCM Software Implementation at Zara: Success Factors][paper-SIS908]
  - [Requirements engineering applied to agile software development][paper-INR908]
+
+<!-- IDN908-->
+[paper-IDN908]: https://drive.google.com/file/d/1Eou374AGhGyv-1uvjc4tsPHVpzJh8gAn/view?usp=sharing
 
 <!-- IDS908 -->
 [project-IDS908]: https://drive.google.com/file/d/11-smZTOFoCG8UpERn_BX063Sd54QXm1O/view?usp=sharing
