@@ -11,5 +11,5 @@ I hate onions and pickles.
 
 ---
 
-![Imagen de Diógenes de Sínope](/images/about/diogenes.jpg "Diógenes de Sínope")
-*"Debemos alargar la mano a los amigos con los dedos extendidos no doblados".* - **Diógenes de Sínope**
+![Imagen de Don Quijote](assets/images/about/quijote.png "Don Quijote")
+*"En mucho más se ha de estimar un diente que un diamante".* - **Don Quijote**

@@ -12,7 +12,7 @@ In this is API request I've got useful information about the weather. I've used 
 | Weather | Clouds |
 
 This is what the request looks like from the API platform:
-![API platform](/images/projects//openweather.png)
+![API platform](/assets/images/projects/openweather.png)
 
 And this is the complete response of the API:
 
