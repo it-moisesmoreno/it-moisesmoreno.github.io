@@ -48,8 +48,8 @@ theme_config:
     title_old_projects: Old Projects
   # options for "education" page
   education:
-    title_bsc_curriculum: Curriculum (2009)
-    title_msc_curriculum: Curriculum (2019)
+    title_bsc_curriculum: Curriculum
+    title_msc_curriculum: Curriculum
   
 
 soopr:

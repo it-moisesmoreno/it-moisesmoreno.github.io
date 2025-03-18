@@ -16,6 +16,7 @@ Grade: **9.3** (GPA: 4.0)
 Status: **Enrolled**
 
 ## Projects <a name="projects"></a>
+- [Implementation of electronic invoicing][project-EIP908]
 - [Software Development Design for Farma Móvil][project-IDS908]
 - [SOA implementation consultancy for Alas Unidas][project-DRS908]
 - [Network infrastructure for EcommerceSv][project-SDS908]  
@@ -25,6 +26,7 @@ Status: **Enrolled**
 - [Proposal for software requirements engineering for the Foundation for the Development of El Salvador][project-INR908]
 
 ## Papers
+ - [Project for the development of a WEB application: Location of vehicle fleet with GPS][paper-EIP908]
  - [Contribution of Artificial Intelligence to Business Intelligence][paper-IDN908]
  - [Cloud Service Providers][paper-IDS908-00]  
  - [Software Architect's Profile][paper-IDS908-01]
@@ -36,7 +38,11 @@ Status: **Enrolled**
  - [SCM Software Implementation at Zara: Success Factors][paper-SIS908]
  - [Requirements engineering applied to agile software development][paper-INR908]
 
-<!-- IDN908-->
+<!-- EIP908 -->
+[project-EIP908]: https://drive.google.com/file/d/10os4UVlbbvGJM784W_chyvesfX5gVMsr/view?usp=drive_link
+[paper-EIP908]: https://drive.google.com/file/d/10kRW4pgeU9fZblvg4ObUZGNmrPlH-JLi/view?usp=drive_link
+
+<!-- IDN908 -->
 [paper-IDN908]: https://drive.google.com/file/d/1Eou374AGhGyv-1uvjc4tsPHVpzJh8gAn/view?usp=sharing
 
 <!-- IDS908 -->
