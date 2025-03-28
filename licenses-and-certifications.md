@@ -6,6 +6,8 @@ title: Licenses and Certifications
 Licenses and certifications play a crucial role in my career for several reasons: professional credibility, career advancement, skill enhancement, industry standards, employer confidence, global recognition and client trust.
 
 ## 2023
+- [English Certificate][english-certificate]
+<a name="diploma-java-specialization-modulo-2"></a>
 - [Diploma in Business Application Development in JAVA: Programming in java language and object oriented design][diploma-java-specialization-modulo-2]
 <a name="diploma-java-specialization-modulo-2"></a>
 - [Diploma in Business Application Development in JAVA: Fundamentals of java programming language][diploma-java-specialization-modulo-1]
@@ -34,6 +36,8 @@ Licenses and certifications play a crucial role in my career for several reasons
 <a name="certificate-completion-network-fundamentals"></a>
 - [Certificate of Completion: Intensive English Program][certificate-completion-english]
 - [Diploma of Participation: Theoretical-practical Guitar Workshop][diploma-participation-guitar]
+
+[english-certificate]: https://cert.efset.org/X9GXzv
 
 [certificate-completion-CCNA-Exploration-Accessing-the-WAN]: https://drive.google.com/file/d/14PInnifscya_p2jX52dPTEi-YXi-EAqh/view?usp=sharing
 
