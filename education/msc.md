@@ -13,7 +13,7 @@ Duration: **2 years**
 Courses: **12**  
 Semesters: **4**    
 Grade: **9.3** (GPA: 4.0)  
-Status: **Enrolled**
+Status: **Thesis phase**
 
 ## Projects <a name="projects"></a>
 - [Implementation of electronic invoicing][project-EIP908]

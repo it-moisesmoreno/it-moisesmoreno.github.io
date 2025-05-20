@@ -32,3 +32,10 @@ msc_course_entries:
   - title: Ética y Empresa
     url: false
     desc: EYE908
+# Fourth semester
+  - title: Estrategias de Implementación de Proyectos de TI
+    url: false
+    desc: EIP908
+  - title: Métodos de Investigación y Redacción de Artículos
+    url: false
+    desc: MIR908
